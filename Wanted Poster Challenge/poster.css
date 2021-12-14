@@ -1,0 +1,49 @@
+body {
+    background-image: url(https://i.imgur.com/K6g10BB.jpg);
+padding: 20px;
+
+}
+
+
+.poster {
+    width:488px;
+    height:640px;
+    background-image: url(https://i.imgur.com/Y9Tiq8a.jpg);
+    padding: 20px;
+    text-align: center;
+    -webkit-box-shadow: 4px -4px 15px 0px #FF1F1F, 12px -11px 7px 0px #FF9376, 20px -5px 7px 0px #FFE264, 20px 6px 7px 0px #F6FF33, 13px 12px 17px 0px #FF9527, 2px 17px 17px 0px #FF0000, -9px 21px 18px 0px #FFF212, -9px 6px 11px 0px #FF0808, -11px -9px 11px 0px #FFFA17, -11px -9px 11px 0px #FFFA17, 5px 5px 15px 5px rgba(0,0,0,0); 
+box-shadow: 4px -4px 15px 0px #FF1F1F, 12px -11px 7px 0px #FF9376, 20px -5px 7px 0px #FFE264, 20px 6px 7px 0px #F6FF33, 13px 12px 17px 0px #FF9527, 2px 17px 17px 0px #FF0000, -9px 21px 18px 0px #FFF212, -9px 6px 11px 0px #FF0808, -11px -9px 11px 0px #FFFA17, -11px -9px 11px 0px #FFFA17, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+
+img {
+    width: 300px;
+    height: 325px;
+    border: solid 2px #6e3a13;
+    margin: 10px;
+    filter: sepia(100);
+}
+
+h1 {
+    font-family: 'Ewert', cursive;
+    color:#6e3a13;
+    font-size: 44pt;
+    font-weight: normal;
+    font-style: normal;
+    margin: 0px;
+}
+
+#price {
+    text-decoration-style: double;
+    text-decoration-line: underline;
+    font-size: 22pt;
+    color:#6e3a13;
+}
+
+
+p {
+    color:#6e3a13;
+}
+
+h2 {
+    color:#6e3a13;
+}
