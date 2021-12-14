@@ -26,7 +26,7 @@ faveCars[1] = 'Rivian'
 
 // Try adding a 4th car to your list. Print your list out after you add it to ensure its there
 
-faveCars[3] = 'Honda'
+faveCars[3] = 'Toyota'
 
 
 // Remove the last element in the array and save the value to a variable called lastPlace. Print this variable to ensure you captured the correct thing. 
