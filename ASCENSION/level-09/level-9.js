@@ -9,7 +9,6 @@ let rfunc = () => {
             console.log(rainbow[i])
         }
     }
-
     // console.log(rainbow[0])
     // console.log(rainbow[2])
     // console.log(rainbow[4])
